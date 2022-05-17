@@ -1,4 +1,4 @@
-# Image-Password-authentication-system
+# Graphical-Password-authentication-system
 In this project, the improvement of password identification authentication system with the assistance of pictures is planned. Password identification authentication 
 is critical to shield the privacy and information of users on varied servers. Passwords that are straightforward to crack are a lot of liable to hackers who will exploit
 the user data to great extents. This project chiefly focuses on the idea of Recognition based mostly graphical password identification authentication system. 
